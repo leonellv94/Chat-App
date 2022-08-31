@@ -157,9 +157,9 @@ body {
 /* conversations */
 
 .conver1 {
-    padding: 5px;
+    padding: 6px;
     font-weight: 400;
-    font-size: 10px;
+    font-size: 8px;
     max-width: 60%;
     color: hsl(276, 55%, 52%);
     background-color: hsla(276, 55%, 52%, 0.1);
@@ -170,9 +170,9 @@ body {
 }
 
 .conver2 {
-    padding: 5px;
+    padding: 6px;
     font-weight: 400;
-    font-size: 10px;
+    font-size: 8px;
     max-width: 60%;
     color: hsl(276, 55%, 52%);
     background-color: hsla(276, 55%, 52%, 0.1);
@@ -201,8 +201,8 @@ body {
     background-color: white;
     border-radius: 15px;
     max-width: 60%;
-    font-size: 10px;
-    padding: 5px;
+    font-size: 8px;
+    padding: 6px;
     border-bottom-right-radius: 7px;
     margin-left: 10px;
     margin-right: 10px;
@@ -213,9 +213,9 @@ body {
     color: hsl(271, 15%, 43%);
     background-color: white;
     border-radius: 15px;
-    max-width: 60%;
-    font-size: 10px;
-    padding: 5px;
+    max-width: 55%;
+    font-size: 8px;
+    padding: 6px;
     font-weight: 400;
     border-bottom-right-radius: 7px;
     margin-left: 10px;
@@ -223,10 +223,10 @@ body {
  }
 
  .conver5 {
-    padding: 5px;
+    padding: 6px;
     font-weight: 400;
-    font-size: 10px;
-    max-width: 65%;
+    font-size: 8px;
+    max-width: 60%;
     color: hsl(276, 55%, 52%);
     background-color: hsla(276, 55%, 52%, 0.1);
     border-radius: 15px;
@@ -278,12 +278,13 @@ body {
  }
 
  .minutes {
-    align-self: right;
+    font-weight: 400;
+    font-size: 10px;
  }
 
 
  .price {
-    justify-items: right;
+    font-weight: 700;
  }
  
 
